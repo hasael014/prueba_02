@@ -1,0 +1,13 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.heder {
+    position: absolute;
+}
+
+a {
+    text-decoration: none;
+    color: #111;
+}

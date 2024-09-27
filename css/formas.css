@@ -1,0 +1,67 @@
+body {
+    background: #000000f2;
+    cursor: url('/crsor/cursor.cur'), auto;
+}
+
+#saludo {
+    color: #ffffff;
+}
+
+#icon-log {
+    border-radius: 50%;
+}
+
+#imgprue {
+    width: 95%;
+    max-width: 500px;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 7px;
+    margin: auto;
+}
+
+#textindi {
+    color: white;
+}
+
+#downhtml {
+    border-radius: 7px;
+    background: red;
+    border-color: #ffffff;
+}
+
+#downhtml:hover {
+    transform: scale(1.08);
+    font-family: serif;
+    background: red;
+    border-color: #ffffff;
+}
+
+.nav-item:hover {
+    background-color: rgba(0, 0, 0, 0.116);
+    border-radius: 50px;
+}
+
+
+/*Pagina de descargas ejemplo_summa*/
+
+#ejemplo_summa {
+    margin-top: 50px;
+    color: white;
+}
+
+.divisoria {
+    background-color: #ffffff;
+    color: #ffffff;
+    border-radius: 50px;
+    font-size: 2px;
+    margin-top: 50px;
+    width: 900px;
+}
+
+
+/*Página: faucets*/
+
+.con-f {
+    text-align: center;
+    margin-top: 20px;
+}
